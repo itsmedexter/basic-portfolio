@@ -46,7 +46,7 @@ a:visited {
     background-color: white;
     color: black;
     font-size: 14px;
-    padding: 30px 32px;
+    padding: 16px 32px;
     opacity: 90%;
   }
 
@@ -83,7 +83,7 @@ a:visited {
 
 
   /* mediaquery https://www.w3schools.com/cssref/tryit.asp?filename=trycss3_media_bg*/
-  @media only screen and (max-width:500px) {
+  @media only screen and (max-width:768px) {
   .name {
       position: fixed;
       top: 0px;
