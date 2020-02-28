@@ -1,3 +1,47 @@
+body {
+  background-color: rgb(215, 240, 233);
+}
+
+.about {
+  position: relative;
+  top: 400px;
+}
+
+.image my-1 image2 {
+margin-top: 0px;
+}
+
+.box2 {
+  float: left;
+  width: 200px;
+  margin-top: 0px;
+  margin-right: 20px;
+  padding: 0px;
+}
+
+.box2 image1 {
+  padding: 0px;
+  margin: 0px;
+}
+
+.box3 {
+  float: left;
+  width: 150px;
+  margin-top: 0px;
+  margin-right: 0px;
+  padding: 0px;
+}
+
+.box3 {
+  float: left;
+  width: 150px;
+  margin-top: 0px;
+  margin-right: 0px;
+  padding: 0px;
+}
+
+
+
 h4 {
     margin: 0;
     padding: 0;
@@ -64,6 +108,7 @@ a:visited {
     display: block;
     width: 150px;
     height: auto;
+    margin: 0px;
     /* transition: .5s ease;
     backface-visibility: hidden; */
   }
@@ -96,9 +141,13 @@ a:visited {
       top: 0px;
   }    
 
+  .about {
+    top: 450px;
+  }
+
   .three {
       /* position: fixed; */
-      top: 50px;
+      top: 100px;
   }
   
   .links {
